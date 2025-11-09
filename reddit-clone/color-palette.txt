@@ -1,0 +1,4 @@
+FFFD8F Yellowish
+B0CE88 Light Green
+4C763B Medium Green
+043915 Dark Green
